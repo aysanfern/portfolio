@@ -1,6 +1,6 @@
 # portfolio
 
-![histogram](assets/images/histogram.png)
+![histogram](histogram (1).png)
 
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
